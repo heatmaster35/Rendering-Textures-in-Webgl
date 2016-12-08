@@ -1,0 +1,13 @@
+12
+front1 1 2 3
+front2 1 3 4
+right1 2 6 7
+right2 2 7 3
+back1 7 6 5
+back2 7 5 8
+left1 8 5 1
+left2 8 1 4
+top1 4 3 7
+top2 4 7 8
+bot1 6 2 1
+bot2 6 1 5
